@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temp_project</string>
+    <string name="enter_user_email">enter your email</string>
+    <string name="textview">TextView</string>
+    <string name="enter_user_age">enter your age</string>
+    <string name="enter_user_job">enter your job</string>
+    <string name="my_name">Mohamed Karam</string>
+</resources>
